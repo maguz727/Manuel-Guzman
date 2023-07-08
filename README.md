@@ -1,9 +1,9 @@
 # Hola 🖐, soy Manuel Guzmán (@maguz)
-Soy un futuro _**Full-stack Javascript Developer**_ 👨🏻‍💻 de **Colombia** me encuentro actualmente estudiando en plataformas tales como **[Platzi](https://platzi.com/)** y en el **Bootcamp** de **[Undefined-Academy](https://undefined.academy/)** con el profesor _**[Guillermo Rodas](https://github.com/glrodasz)**_
+Soy un desarrollador web que está en proceso de aprendizaje, soy una persona curiosa y apasionada por el mundo de la tecnología y la creación de sitios web. Me siento emocionado y motivado por aprender y dominar los fundamentos de la programación web.
 
-Tengo muchas espectativas de aprender grandes tecnologías y poder dedicarme a desarrollar todo tipo de soluciones tanto para compañias como para la comunidad _Dev_ en general
+Soy alguien que disfruta enfrentando nuevos desafíos y resolviendo problemas, ya que sé que cada obstáculo superado es una oportunidad para crecer y mejorar mis habilidades. A pesar de estar en mis primeros pasos, tengo una mentalidad abierta y estoy dispuesto a aprender de mis errores, aprovechando cada experiencia como una lección para mi crecimiento personal y profesional.
 
-Actualmente trabajo en una compañia de SST es decir, que se dedicada a prestar el servicio de consultoria en Seguridad y Salud en el Trabajo y en la cual me dedico a dar **soporte** al usuario final de la aplicación que la compañia tiene para sus clientes, creo _**Query's**_ a la base de datos generando así reportes que requiere la compañia, también realizo _**Testing**_ de los bugs y controles de cambio que se le hacen a la aplicación.
+engo una sed constante de conocimiento y estoy constantemente buscando nuevas formas de ampliar mis habilidades. Me sumerjo en tutoriales, documentación y recursos en línea para adquirir conocimientos en todo tipo de legunaje tales como HTML, CSS y JavaScript, así como también herramientas y frameworks populares en la industria.
 
 ### Skills (Perfeccionando...)
 
